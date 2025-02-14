@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720534654360",
+    "project_id": "student-firestore",
+    "storage_bucket": "student-firestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720534654360:android:773140eacc787fea9bafed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_student_crud_firebase_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdgXy0yHUDax9jZlOoHwxhNz4uAbrLRy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
